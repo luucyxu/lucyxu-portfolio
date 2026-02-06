@@ -493,7 +493,7 @@ export default function Home() {
       {/* Image */}
       <div className="relative h-56 w-full bg-slate-100">
         <Image
-          src="/logos/mintel.png"
+          src="/logos/Mintel.png"
           alt="Mintel GNPD Project"
           fill
           className="object-cover"
@@ -572,7 +572,7 @@ export default function Home() {
       {/* Image */}
       <div className="relative h-56 w-full bg-slate-50 flex items-center justify-center p-8">
         <Image
-          src="/logos/snowflake.png"
+          src="/logos/Snowflake.png"
           alt="Snowflake ERM Project"
           fill
           className="object-contain"
@@ -799,8 +799,8 @@ export default function Home() {
     <div className="flex items-start gap-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
       <div className="flex h-42 w-54 items-center justify-center rounded-xl">
         <Image
-    src="/logos/northwestern.png"
-    alt="UC San Diego Logo"
+    src="/logos/Northwestern.png"
+    alt="Northwestern Logo"
     width={240}
     height={120}
     className="object-contain"
@@ -932,7 +932,7 @@ export default function Home() {
 
       <button
         type="submit"
-        className="rounded-lg bg-slate-900 px-46 py-2 text-sm font-semibold text-white hover:bg-slate-800"
+        className="rounded-lg bg-slate-900 px-46 py-2 text-m font-semibold text-white hover:bg-slate-800"
       >
         Send message
       </button>
